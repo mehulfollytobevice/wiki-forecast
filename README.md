@@ -1,4 +1,4 @@
-# Wiki Forcast:
+# Wiki Forecast:
 
 - This repository contains the code for **"Wiki Forecast Project"**.
 - The objective of this project is to forecast web traffic for individual Wikipedia pages reliably to enhance content management efforts.
