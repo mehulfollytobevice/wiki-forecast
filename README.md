@@ -3,7 +3,7 @@
 - This repository contains the code for **"Wiki Forecast Project"**.
 - The objective of this project is to forecast web traffic for individual Wikipedia pages reliably to enhance content management efforts.
   
-## 📝 Description
+## Introduction:
 - In the digital age, understanding and predicting web traffic patterns is paramount for effective content management, resource allocation, and strategic decision-making. With the exponential growth of online platforms like Wikipedia, accurately forecasting web traffic has become increasingly challenging yet crucial. 
 - We aim to construct a web traffic forecasting system by crafting a LSTM model using the `neuralforecast` library. This model will analyze the time series data of each Wikipedia page to forecast the daily visits throughout the prediction period.
 - In this project we have used the **Web Traffic Time Series Forecasting** dataset from Kaggle to train our model. 
